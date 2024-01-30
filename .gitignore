@@ -1,0 +1,15 @@
+
+.vs/WPFAccessKey/FileContentIndex/550fd5fd-c404-49c9-afe1-ad9a470f4992.vsidx
+*.vsidx
+*.lock
+obj
+bin
+WPFAccessKey/bin/Debug/net6.0-windows/WPFAccessKey.deps.json
+WPFAccessKey/bin/Debug/net6.0-windows/WPFAccessKey.runtimeconfig.json
+WPFAccessKey/obj/Debug/net6.0-windows/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+WPFAccessKey/obj/Debug/net6.0-windows/App.g.cs
+WPFAccessKey/obj/Debug/net6.0-windows/App.g.i.cs
+WPFAccessKey/obj/Debug/net6.0-windows/MainWindow.baml
+WPFAccessKey/obj/Debug/net6.0-windows/MainWindow.g.cs
+WPFAccessKey/obj/Debug/net6.0-windows/MainWindow.g.i.cs
+WPFAccessKey/obj/Debug/net6.0-windows/WPFAccessKey.AssemblyInfo.cs
